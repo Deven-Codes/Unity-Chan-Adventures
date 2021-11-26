@@ -16,7 +16,7 @@
 - Play the game
 
 Note: This project is not supported for "Android" or "IOS" build, as mobile input system is not implemented.
-      You have to impliment your own mobile input system in this project.
+     
 
 
 
